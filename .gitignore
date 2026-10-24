@@ -1,0 +1,5 @@
+data/
+artifacts/
+__pycache__/
+*.pt
+.pytest_cache/
